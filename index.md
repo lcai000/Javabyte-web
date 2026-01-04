@@ -1,3 +1,6 @@
+---
+title: Privacy Policy
+---
 # Privacy Policy for Javabyte
 
 **Effective Date:** January 2026
@@ -25,4 +28,4 @@ This Privacy Policy may be updated if the app’s data practices change.
 
 ## Contact
 If you have any questions about this Privacy Policy, please contact:  
-**pumpkin.landon.c@gmail.com**
+**[your email address]**
