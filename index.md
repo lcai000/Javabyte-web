@@ -14,6 +14,12 @@ The app may collect **limited, non-personal diagnostic information** (such as cr
 
 Quiz activity, timing data, and progress are stored **locally on the user’s device** and are **not transmitted to external servers**.
 
+## User Privacy Choices
+Javabyte does not collect personal information.  
+You cannot be personally identified from the data collected.  
+If any diagnostic data is collected for crash reporting, it is anonymous and cannot be opted out of individually.  
+No third-party tracking or advertising is used.
+
 ## Third-Party Services
 Javabyte is built using **Expo**, which may process limited diagnostic data for app reliability and performance. Javabyte does **not** use third-party advertising or tracking services.
 
