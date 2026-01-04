@@ -28,4 +28,4 @@ This Privacy Policy may be updated if the app’s data practices change.
 
 ## Contact
 If you have any questions about this Privacy Policy, please contact:  
-**[your email address]**
+**pumpkin.landon.c@gmail.com**
